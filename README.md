@@ -1,4 +1,4 @@
-Tailwind CSS Mini Projects
+
 Welcome to my repository of Tailwind CSS mini projects! These projects are part of my journey to learn and experiment with Tailwind CSS as I tip my toe into this amazing utility-first CSS framework.
 
 About
